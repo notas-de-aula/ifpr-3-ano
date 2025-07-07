@@ -74,3 +74,19 @@ ambientes externos, cobre maiores distâncias.
 
 Melhor opção quando mobilidade é o foco principal, mas são suscetíveis à
 interferências e possuem distância limitada.
+
+# Velocidades de Ethernet
+
+As velocidades de Ethernet seguem o padrão de crescimento 10^n
+
+## Ethernet
+
+Opera em velocidades de 10 Mbps
+
+## Fast Ethernet
+
+Opera em velocidades de 100 Mbps
+
+## Gigabit Ethernet
+
+Opera em velocidades de 1000 Mbps ou 1 Gigabit
