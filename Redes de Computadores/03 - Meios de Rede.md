@@ -63,7 +63,7 @@ fabricação, fazendo com que o custo de instalação seja alto.
 #### Multimodo
 
 Faz uso de LED para envio de pulsos de luz. É recomendada para menores
-distâncias, popularmente utilizada em [LANs](/01%20-%20Tipos%20de%20Rede.md#tipos-de-rede).
+distâncias, popularmente utilizada em [LANs](/Redes%20de%20Computadores/01%20-%20Tipos%20de%20Rede.md#tipos-de-rede).
 
 #### Monomodo
 
