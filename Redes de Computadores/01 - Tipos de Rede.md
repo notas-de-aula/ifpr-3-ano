@@ -1,8 +1,8 @@
 # Tipos de Rede
 
-1. LAN: Rede de Área local;
-2. MAN: Rede de Área metropolitana;
-3. WAN: Rede de Área wireless.
+1. LAN: Rede de área local;
+2. MAN: Rede de área metropolitana;
+3. WAN: Rede de área larga.
 
 # Topologias de Redes
 
