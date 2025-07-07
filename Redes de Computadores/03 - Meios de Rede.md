@@ -77,7 +77,7 @@ interferências e possuem distância limitada.
 
 # Velocidades de Ethernet
 
-As velocidades de Ethernet seguem o padrão de crescimento 10^n
+As velocidades de Ethernet seguem o padrão de crescimento $10^n$
 
 ## Ethernet
 
