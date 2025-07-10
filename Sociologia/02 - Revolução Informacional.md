@@ -25,7 +25,7 @@ instântaneamente e está acessível à (quase) todo o mundo no mesmo momento.
 
 Até a revolução industrial, todos estavam empregado na agricultura. No período
 de revolução, o cenário passou a dar palco para a indústria e empregos
-relacionados. Com a chegada do século XX, período da produçõa em massa, veio
+relacionados. Com a chegada do século XX, período da produção em massa, veio
 também avanços em setores como o da microeletrônica nos anos seguintes,
 possibilitando então a eventual globalização que levaria a sociedade à chamada
 `economia do conhecimento`.
