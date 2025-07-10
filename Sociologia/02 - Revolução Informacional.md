@@ -30,7 +30,7 @@ também avanços em setores como o da microeletrônica nos anos seguintes,
 possibilitando então a eventual globalização que levaria a sociedade à chamada
 `economia do conhecimento`.
 
-A economia do conhecimento é diferente da economia de produção. Nela, que o
+A economia do conhecimento é diferente da economia de produção. Nela, o
 que vale não é ter mais fábricas, mas deter o poder do conhecimento. Daí
 vem o lucro de países como os do Norte.
 
