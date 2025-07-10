@@ -11,8 +11,8 @@ Completa o sentido de um verbo transitivo direto.
 
 Ex:
 
-A menina comeu `biscoito`.
-Comprei `um carro`.
+A menina comeu `biscoito`.\
+Comprei `um carro`.\
 Ele caiu `da escada`.
 
 #### Oração substantiva objetiva direta
@@ -22,8 +22,6 @@ substantiva objetiva direta`. É substantiva, pois apenas o substantivo pode
 exercer a função de objeto direto.
 
 Ex:
-
-
 
 ### Complemento verbal do objeto indireto
 
